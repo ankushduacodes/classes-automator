@@ -1,2 +1,2 @@
 # classes-automator
-simple script to automate my college online classes
+Simple script to automate my college online classes
